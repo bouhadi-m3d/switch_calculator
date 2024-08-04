@@ -1,2 +1,3 @@
 ## switch_calculator
-a simple calculator using switch  
+a simple calculator using switch.
+
