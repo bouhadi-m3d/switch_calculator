@@ -4,7 +4,7 @@ This repository contains a simple calculator implemented using the `switch` stat
 
 ## About
 
-The switch calculator allows users to perform basic arithmetic operations such as addition, subtraction, multiplication, and division. It demonstrates the use of the `switch` statement for control flow in C++.
+The switch calculator allows users to perform basic arithmetic operations such as addition, subtraction, multiplication, Modulo, and division. It demonstrates the use of the `switch` statement for control flow in C++.
 
 ## Features
 
